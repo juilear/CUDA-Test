@@ -32,3 +32,9 @@
 *.app
 *.log
 *.deps
+*.opensdf
+*.pdb
+*.tlog
+*.ilk
+*.cache
+*.pdb
